@@ -6,6 +6,6 @@ To use this mod, you need the SDL client. Copy `bmod.dll` to the `bin\` folder i
 
 If you already have other mods, you might need to rename it to something like `cmod.dll`.
 
-Use `/export` to export your character stats to your desktop.(It'll be named <CharacterName>.json)
+Use `/export` to export your character stats to your desktop.(It'll be named CharacterName.json)
 
 Primary usage is for [Resurgence Stat Calculator](https://www.astoniaresurgence.com/downloads/ResurgenceStatCalc.exe)
