@@ -11,7 +11,7 @@ Use `/export` to export your character stats to your desktop.
 Primary usage is for [Resurgence Stat Calculator](https://www.astoniaresurgence.com/downloads/ResurgenceStatCalc.exe)
 
 
-### [WikiWizard 0.1](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/dmod.dll)
+### [WikiWizard 0.2](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/dmod.dll)
 
 To use this mod, you need the SDL/latest updated client. Copy `dmod.dll` to the `bin\` folder in your installation. 
 
