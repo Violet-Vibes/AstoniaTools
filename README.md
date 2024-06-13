@@ -20,7 +20,7 @@ If you already have other mods, you might need to rename it to something like `c
 Use `/wiki <keyword>` to search the Resurgence wiki.
 
 
-### [Quick Maths](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/emod.dll)
+### [Quick Maths 0.1](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/emod.dll)
 
 To use this mod, you need the SDL/latest updated client. Copy `emod.dll` to the `bin\` folder in your installation. 
 
