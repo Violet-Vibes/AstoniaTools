@@ -18,3 +18,12 @@ To use this mod, you need the SDL/latest updated client. Copy `dmod.dll` to the 
 If you already have other mods, you might need to rename it to something like `cmod.dll`.
 
 Use `/wiki <keyword>` to search the Resurgence wiki.
+
+
+### [Quick Maths](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/emod.dll)
+
+To use this mod, you need the SDL/latest updated client. Copy `emod.dll` to the `bin\` folder in your installation. 
+
+If you already have other mods, you might need to rename it to something like `fmod.dll`.
+
+Use `/calc <number> <operator> <number>` to do simple calculations. Supported operators are `+, -, *, /`.
