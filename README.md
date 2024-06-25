@@ -1,6 +1,6 @@
 # Astonia Tools
 
-### [Stat Exporter 0.2](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/bmod.dll)
+### [Stat Exporter 0.3](https://github.com/Violet-Vibes/AstoniaTools/releases/download/release/bmod.dll)
 
 To use this mod, you need the SDL/latest updated client. Copy `bmod.dll` to the `bin\` folder in your installation. 
 
